@@ -1,0 +1,8 @@
+When do you use Performance Testing?
+Performance testing is done to check the performance
+of website servers, database, and network.
+If you are adopting waterfall methodology,
+then it is important for you to check each time
+release of a new version. However, 
+if you are using the agile software development approach,
+then you need to test application continuously.
